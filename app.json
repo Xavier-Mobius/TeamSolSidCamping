@@ -1,0 +1,8 @@
+{
+  "name": "Team SolSid Camping",
+  "description": "Répartiteur de bénévoles",
+  "repository": "https://github.com/Xavier-Plasma/TeamSolSidCamping",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}

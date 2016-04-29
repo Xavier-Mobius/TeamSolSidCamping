@@ -25,6 +25,7 @@ build/Release
 
 # Dependency directory
 node_modules
+npm-debug.log
 
 # Optional npm cache directory
 .npm
